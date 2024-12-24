@@ -1,4 +1,4 @@
-# Teaching Materials on Experimental Economics and Economic Experiments
+# Lecture Slides on Experimental Economics and Economic Experiments
 
 This repository contains a collection of teaching slides and notes for understanding **experimental economics** and **economic experiments**. These materials are designed for **undergraduate** and **postgraduate level courses**, as well as for **researchers** and **students** in the fields of **economics**, **business**, and **social science**. They are suitable for both **teaching** and **self-study**.
 
